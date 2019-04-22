@@ -33,7 +33,7 @@
 	* Authorization to launch subprocesses from python
 	* AWK
 	
-##Script execution
+## Script execution
 
 ### Launch the script
 * Only the python file needs to be executed, the bash files will follow automatically.
