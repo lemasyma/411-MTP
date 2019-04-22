@@ -38,13 +38,13 @@
 ### Launch the script
 * Only the python file needs to be executed, the bash files will follow automatically.
 * The users needs to already be in the folder where the python file is situated and type:
-'''
+```
 $ python3 ping.py
-'''
+```
 * Or write the relative path, for example such as:
-'''
+```
 $ python3 /home/ec2-user/environment/Project/411-MTP/ping.py
-'''
+```
 
 ### Results
 * The script will generate 
