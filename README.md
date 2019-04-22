@@ -17,9 +17,9 @@
 			* depict  Data using HISTOGRAMS (for each separate country)
 		* in a one Figure Integrated BOXPLOTs 
 
-##Requirements
+## Requirements
 
-###Python requirements
+### Python requirements
 * The following specifications are needed in order to execute the script:
 	* Python3
 	* OS
@@ -27,7 +27,7 @@
 	* PandasDataFrame
 	* Matplotlib
 
-###Bash requirements
+### Bash requirements
 * The following specifications are needed in order to execute the script:
 	* Authorization to create and modify files
 	* Authorization to launch subprocesses from python
